@@ -6,7 +6,7 @@ h1 {
   border-style: double;
   border-width: 5px;
   padding: 6px;
-  margin: 5px:  
+  margin: 5px;  
 }
 
 body {
@@ -15,5 +15,12 @@ body {
   margin-right: 30px;
   margin-bottom: 50px;
   margin-left: 100px;
-  padding: 20px: 
+  padding: 20px; 
 }
+p {
+  color: red;
+  text-align: left;
+  text-size: 18px;
+  margin: 20px;
+}
+  
