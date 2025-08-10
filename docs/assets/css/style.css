@@ -1,9 +1,9 @@
 body {
-  font-size: 12px;
-  padding-top: 80px;
+  font-size: 18px;
+  padding-top: 120px;
   padding-right: 30px;
   padding-bottom: 50px;
-  padding-left: 30px;
+  padding-left: 50px;
 
 }
 
@@ -14,7 +14,7 @@ h1 {
   background-color: black;
   border-style: double;
   border-width: 5px;
-  padding: 40px;
+  margin: 40px;
   
 }
 
