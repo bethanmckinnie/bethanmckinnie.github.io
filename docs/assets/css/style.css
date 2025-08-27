@@ -17,7 +17,7 @@ h1 {
 
 h3 {
   text-align: left;
-  font-style: bold;
+  font-weight: bold;
   font-size: 16px;
   padding-top: 5px;
   padding-right: 5px;
@@ -45,19 +45,18 @@ body {
   padding: 10px;
   font-family: times new roman;
   font-size: 16px;
-  background-color: white
+  background-color: white;
 }
 
 /* unvisited link */
 a:link {
 text-decoration: none;
-color: none;
-}
+color: inherit;
 
 /* visited link */
 a:visited {
 text-decoration: none;
-color: none;
+color: inherit
 }
 
 /* mouse over link */
