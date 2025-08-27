@@ -1,5 +1,5 @@
 h1 {
-  display: block;
+  display: inline-block;
   color: white;
   text-align: center;
   background-color: black;
@@ -20,7 +20,7 @@ h3 {
   font-size: 16px;
   padding-top: 5px;
   padding-right: 5px;
-  padding-left: 15px;
+  padding-left: 20px;
   padding-bottom: 5px; 
 }
 
@@ -46,4 +46,24 @@ p {
   padding-right: 5px;
   padding-left: 20px;
   padding-bottom: 5px; 
+}
+
+
+/* unvisited link */
+a:link {
+
+}
+
+/* visited link */
+a:visited {
+}
+
+/* mouse over link */
+a:hover {
+  color: red;
+}
+
+/* selected link */
+a:active {
+  color: red;
 }
